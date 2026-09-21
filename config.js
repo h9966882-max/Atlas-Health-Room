@@ -1,1 +1,1 @@
-window.ATLAS_CONFIG={SUPABASE_URL:"",SUPABASE_ANON_KEY:""};
+window.ATLAS_CONFIG={SUPABASE_URL:"https://wvsogabeckhuhcqelpja.supabase.co",SUPABASE_ANON_KEY:"sb_publishable_tT9nE3rcfJQnjD7cSp543w_kcJSGq_s"};
